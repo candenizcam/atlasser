@@ -1,0 +1,75 @@
+cats.png
+size: 667, 4000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+move
+   rotate: false
+   xy: 0, 0
+   size: 667, 400
+   orig: 667, 400
+   offset: 0, 0
+   index: 0
+move
+   rotate: false
+   xy: 0, 400
+   size: 667, 400
+   orig: 667, 400
+   offset: 0, 0
+   index: 1
+move
+   rotate: false
+   xy: 0, 800
+   size: 667, 400
+   orig: 667, 400
+   offset: 0, 0
+   index: 2
+move
+   rotate: false
+   xy: 0, 1200
+   size: 667, 400
+   orig: 667, 400
+   offset: 0, 0
+   index: 3
+move
+   rotate: false
+   xy: 0, 1600
+   size: 667, 400
+   orig: 667, 400
+   offset: 0, 0
+   index: 4
+move
+   rotate: false
+   xy: 0, 2000
+   size: 667, 400
+   orig: 667, 400
+   offset: 0, 0
+   index: 5
+still
+   rotate: false
+   xy: 0, 2400
+   size: 400, 400
+   orig: 400, 400
+   offset: 0, 0
+   index: 6
+still
+   rotate: false
+   xy: 0, 2800
+   size: 400, 400
+   orig: 400, 400
+   offset: 0, 0
+   index: 7
+still
+   rotate: false
+   xy: 0, 3200
+   size: 400, 400
+   orig: 400, 400
+   offset: 0, 0
+   index: 8
+still
+   rotate: false
+   xy: 0, 3600
+   size: 400, 400
+   orig: 400, 400
+   offset: 0, 0
+   index: 9
